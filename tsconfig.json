@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "baseUrl": "./",
+    "outDir": "./dist",
+    "paths": { "@": ["."] }
+  },
+  "include": ["src/**/*"]
+}
