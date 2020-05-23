@@ -5,8 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "@types/dotenv": "^8.2.0",
+    "@types/lodash": "^4.14.151",
     "dotenv": "^8.2.0",
-    "firebase": "^7.14.4"
+    "firebase": "^7.14.4",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "@types/node": "^14.0.1",
